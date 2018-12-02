@@ -177,7 +177,7 @@
     },
     {
       "name": "getEPICEarthImagery",
-      "description": "Retieve a paginated list of Near Earth Objects.",
+      "description": "Retrieve a paginated list of Near Earth Objects.",
       "args": [
         {
           "name": "apiKey",
